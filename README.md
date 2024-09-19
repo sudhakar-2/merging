@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # merging this is sudhakar merging
 
 I am justing checking the information from developer A
@@ -8,8 +8,14 @@ I am justing checking the information from developer A
 
 # merging this is sudhakar merging
 
->>>>>>> 8127018fae987c891309e1368ff38952829f70ad
+
+
+ia am deverlop b 24
+=======
+
 
 I am 23
 
+
 its iok
+=======
